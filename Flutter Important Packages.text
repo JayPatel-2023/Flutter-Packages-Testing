@@ -1,0 +1,11 @@
+Flutter Important Packages 
+
+device_preview: ^1.2.0
+Provide different devvice views including ios/mac os.
+
+faker: ^2.2.0
+Provide fake data.
+
+fvm: ^3.2.1
+Flutter version manager for managing old flutter version with new flutter version.
+
